@@ -1,7 +1,7 @@
 ---
 title: '#90DaysOfDevOps - Bức tranh toàn cảnh: Kubernetes - Ngày 49'
 published: false
-description: 90DaysOfDevOps - Bức tranh toàn cảnh: Kubernetes
+description: '90DaysOfDevOps - Bức tranh toàn cảnh: Kubernetes'
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
