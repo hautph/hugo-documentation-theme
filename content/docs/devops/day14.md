@@ -2,6 +2,7 @@
 title: '#90DaysOfDevOps - Bức tranh lớn: DevOps và Linux - Ngày 14'
 published: false
 description: 90DaysOfDevOps - Bức tranh lớn: DevOps và Linux
+categories: [hugo, markdown]
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
