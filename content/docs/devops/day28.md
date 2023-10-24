@@ -1,7 +1,7 @@
 ---
 title: '#90DaysOfDevOps - Bức tranh toàn cảnh: DevOps & The Cloud - Ngày 28'
 published: false
-description: 90DaysOfDevOps - Bức tranh toàn cảnh: DevOps & The Cloud
+description: '90DaysOfDevOps - Bức tranh toàn cảnh: DevOps & The Cloud'
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
