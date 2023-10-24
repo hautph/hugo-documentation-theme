@@ -1,7 +1,7 @@
 ---
 title: '#90DaysOfDevOps - Bức tranh toàn cảnh: Cơ sở hạ tầng dưới dạng mã (IaC) - Ngày 56'
 published: false
-description: 90DaysOfDevOps - Bức tranh toàn cảnh: Cơ sở hạ tầng dưới dạng mã (IaC)
+description: '90DaysOfDevOps - Bức tranh toàn cảnh: Cơ sở hạ tầng dưới dạng mã (IaC)'
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
